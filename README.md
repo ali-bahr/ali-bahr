@@ -9,8 +9,8 @@
   
   <h2>About Me</h2>
   
-  <h4>I'm a passionate Computer Engineering student.</h4>
-  <h4>I love solving problems and continuously learning to improve my skills.</h4>
+  <h3>I'm a passionate Computer Engineering student.</h3>
+  <h3>I love solving problems and continuously learning to improve my skills.</h3>
   
   <h2>Languages and Tools</h2>
   
