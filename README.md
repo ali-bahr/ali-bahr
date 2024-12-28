@@ -24,7 +24,7 @@
   
   <details>
     <summary>Click to view my GitHub stats</summary>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&show_icons=true&theme=radical" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&show=prs_merged,prs_merged_percentage&theme=radical&show_icons=true" /></p>
   </details>
   
   <h2>Connect with Me</h2>
