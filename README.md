@@ -11,6 +11,8 @@
   
   <h3>I'm a passionate Computer Engineering student.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
+  <h3>I’m currently learning about Backend Web Development and Machine Learning</h3>
+
   
   <h2>Languages and Tools</h2>
   
