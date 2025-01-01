@@ -26,7 +26,8 @@
   
   <details>
     <summary>Click to view my GitHub stats</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&theme=radical&show_icons=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bahr&theme=radical&show_icons=true" alt="ali-bahr" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&theme=radical&show_icons=true" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bahr&theme=radical&show_icons=true" alt="ali-bahr" /></p>
 
   </details>
   
