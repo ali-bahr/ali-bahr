@@ -11,14 +11,14 @@
   
   <h3>I'm a passionate Computer Engineering student.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
-  <h3>I’m currently learning about Backend Web Development and Machine Learning</h3>
+  <h3>I’m currently learning about Backend Web Development and Machine Learning.</h3>
 
   
   <h2>Languages and Tools</h2>
   
   Here are some of the technologies and tools I work with:
   <p align="center">
-    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode,postman&perline=7" /></a>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode,postman&perline=7" /></a>
   </p>
   <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-bahr&theme=radical" /></p>
   
