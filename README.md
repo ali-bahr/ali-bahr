@@ -20,17 +20,11 @@
   <p align="center">
     <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode,postman&perline=7" /></a>
   </p>
-  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-bahr&theme=radical" /></p>
   
   <h2>GitHub Stats</h2>
   
-  <details>
-    <summary>Click to view my GitHub stats</summary>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&theme=radical&show_icons=true" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bahr&theme=radical&show_icons=true" alt="ali-bahr" /></p>
-
-  </details>
-  
+  <p><img src="https://github-readme-stats.vercel.app/api?username=ali-bahr&theme=radical&show_icons=true" />
+    
   <h2>Connect with Me</h2>
   
   <div>
