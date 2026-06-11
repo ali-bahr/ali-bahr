@@ -22,7 +22,7 @@
   
   <div align="center">
     <a href="https://ali-bahr.github.io/" target="_blank">
-      <img alt="image" src="https://github.com/user-attachments/assets/db7a5477-78cb-4014-bca4-67b8551c032a" />
+      <img alt="Portfolio" src="https://github.com/user-attachments/assets/db7a5477-78cb-4014-bca4-67b8551c032a" width="48" height="48" />
     </a>
     <a href="https://www.linkedin.com/in/ali-bahr-50233a262/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
