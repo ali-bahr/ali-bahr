@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="100" alt="Ali Bahr Profile Icon" />
   <h1>Hi There, I'm <a href="https://www.linkedin.com/in/ali-bahr-50233a262/" target="_blank">Ali Bahr</a> 👋</h1>
   
   <p align="center">
@@ -23,7 +22,7 @@
   
   <div align="center">
     <a href="https://ali-bahr.github.io/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
+      <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" width="50"/>
     </a>
     <a href="https://www.linkedin.com/in/ali-bahr-50233a262/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
