@@ -6,7 +6,7 @@
   </p>
   <h2>About Me</h2>
   <h3>I'm a passionate Fresh Graduate Computer Engineer from Cairo University.</h3>
-  <h3>I work across backend systems, AI pipelines, and data-intensive infrastructure, with a bias toward measurable results.</h3>
+  <h3>I work across backend systems, AI pipelines.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
   <h3>Check out my portfolio: <a href="https://ali-bahr.github.io/" target="_blank">https://ali-bahr.github.io/</a></h3>
 
