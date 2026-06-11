@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="profile-icon.svg" width="120" alt="Ali Bahr Profile Icon" />
   <h1>Hi There, I'm <a href="https://www.linkedin.com/in/ali-bahr-50233a262/" target="_blank">Ali Bahr</a> 👋</h1>
   
   <p align="center">
