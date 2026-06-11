@@ -8,18 +8,22 @@
   <h3>I'm a passionate Fresh Graduate Computer Engineer from Cairo University.</h3>
   <h3> I work across backend systems, AI pipelines, and data-intensive infrastructure, with a bias toward measurable results.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
+  <h3>Check out my portfolio: <a href="https://ali-bahr.github.io/" target="_blank">https://ali-bahr.github.io/</a></h3>
 
   
   <h2>Languages and Tools</h2>
   
   Here are some of the technologies and tools I work with:
   <p align="center">
-    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode,postman&perline=7" /></a>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vs[...]
   </p>
   
   <h2>Connect with Me</h2>
   
   <div>
+    <a href="https://ali-bahr.github.io/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/ali-bahr-50233a262/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
