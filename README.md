@@ -15,7 +15,7 @@
   
   Here are some of the technologies and tools I work with:
   <p align="center">
-    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vs[...]
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode" />
   </p>
   
   <h2>Connect with Me</h2>
