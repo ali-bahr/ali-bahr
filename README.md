@@ -8,7 +8,7 @@
   <h3>I'm a passionate Fresh Graduate Computer Engineer from Cairo University.</h3>
   <h3>I work across backend systems, AI pipelines.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
-  <h3>Check out my portfolio: <a href="https://ali-bahr.github.io/" target="Personal Portfolio">https://ali-bahr.github.io/</a></h3>
+  <h3>Check out my portfolio: <a href="https://ali-bahr.github.io/" target="_blank">Personal Portfolio</a></h3>
 
   
   <h2>Languages and Tools</h2>
