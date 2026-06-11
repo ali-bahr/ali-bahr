@@ -6,7 +6,7 @@
   </p>
   <h2>About Me</h2>
   <h3>I'm a passionate Fresh Graduate Computer Engineer from Cairo University.</h3>
-  <h3> I work across backend systems, AI pipelines, and data-intensive infrastructure, with a bias toward measurable results.</h3>
+  <h3>I work across backend systems, AI pipelines, and data-intensive infrastructure, with a bias toward measurable results.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
   <h3>Check out my portfolio: <a href="https://ali-bahr.github.io/" target="_blank">https://ali-bahr.github.io/</a></h3>
 
@@ -15,20 +15,20 @@
   
   Here are some of the technologies and tools I work with:
   <p align="center">
-    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vs[...]
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,cs,python,nodejs,expressjs,mongodb,linux,git,docker,anaconda,aws,clion,idea,pycharm,vscode" alt="Skills" /></a>
   </p>
   
   <h2>Connect with Me</h2>
   
-  <div>
+  <div align="center">
     <a href="https://ali-bahr.github.io/" target="_blank">
       <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/ali-bahr-50233a262/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:alibahr313@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
   </div>
   <p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" /></p>
