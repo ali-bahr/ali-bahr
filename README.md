@@ -5,7 +5,8 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTE4dG15bTVhZ3l5NXh1c3F4d3E3czh5MjRheDJtZXF3ZGlmMDF6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
   </p>
   <h2>About Me</h2>
-  <h3>I'm a passionate Computer Engineering student from Cairo University.</h3>
+  <h3>I'm a passionate Fresh Graduate Computer Engineer from Cairo University.</h3>
+  <h3> I work across backend systems, AI pipelines, and data-intensive infrastructure, with a bias toward measurable results.</h3>
   <h3>I love solving problems and continuously learning to improve my skills.</h3>
 
   
